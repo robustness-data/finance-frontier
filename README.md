@@ -1,4 +1,4 @@
-# finance-frontier
+# Finance Frontier
 Keep up-to-date with the latest academic macroeconomics/finance research. 
 
 ## Researcher to follow:
